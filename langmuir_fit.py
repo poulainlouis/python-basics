@@ -11,8 +11,9 @@ from scipy.optimize import curve_fit
 directory = os.path.dirname(__file__)
 filename = 'langmuir_Ne_80v_3mbar.csv'
 data = pd.read_csv(os.path.join(directory, filename))
-voltage = data['Voltage [V]'].as_matrix()
-current = data['Current [?A]'].as_matrix()
+
+voltage = data['Voltage [V]'].values
+current = data['Current [?A]'].values
 
 # Plot all data
 fig, ax = plt.subplots(2, sharex=True)
