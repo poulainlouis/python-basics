@@ -3,8 +3,6 @@ Python files for Python introductory Course
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bernardocarvalho/python-basics/HEAD)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/bernardocarvalho/python-basics/HEAD
 
 ### Required step before running ISTTOK data examples
 
