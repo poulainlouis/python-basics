@@ -3,3 +3,4 @@ numpy
 scipy
 ipywidgets
 mpld3
+ipympl
