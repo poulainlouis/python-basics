@@ -3,7 +3,7 @@ Python files for Python introductory Course
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bernardocarvalho/python-basics/HEAD)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bernardocarvalho/python-basics/blob/main/python_basics.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bernardocarvalho/python-basics/blob/main/python_basics_extended.ipynb)
 
 ### Required step before running ISTTOK data examples
 
