@@ -9,7 +9,7 @@ from scipy.optimize import curve_fit
 
 # Import data from csv using pandas and convert to numpy array
 directory = os.path.dirname(__file__)
-filename = 'langmuir_Ne_80v_3mbar.csv'
+filename = 'files/langmuir_Ne_80v_3mbar.csv'
 data = pd.read_csv(os.path.join(directory, filename), encoding='ISO-8859–1')
 
 voltage = data['Voltage [V]'].values
