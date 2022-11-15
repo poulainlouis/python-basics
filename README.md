@@ -1,4 +1,4 @@
-# python-basics Jupyter Notebooks on [Github](https://github.com/bernardocarvalho/python-basics)
+# python-basics Jupyter Notebooks on [GitHub](https://github.com/bernardocarvalho/python-basics)
 ## Python files for Python introductory Course
 
 ### Running Notebooks Online:
@@ -13,12 +13,18 @@ You can run the main Notebook in your Browser using the next icons.
     * (MAC/Windows/Linux). Install [Anaconda](https://anaconda.org/conda-forge/download)
     * Install with package Manager ([Homebrew](https://brew.sh) / [Scoop](https://scoop.sh)/[Chocolatey](https://chocolatey.org)/ yum / apt / etc.)
 2. Install `Git` Software version control system
-3. Open a terminal and do:
+3. Open a terminal (in Windows use **PowerShell**) and do:
     * `git clone https://github.com/bernardocarvalho/python-basics`
     * `cd python-basics`
 4. Open JupyterLab App 
+5. Preferably, create an account in [GitHub](https://github.com), [Fork](https://github.com/bernardocarvalho/python-basics/fork)
+this repository, modify the notebook, create new ones  add them to your account with:
+    * `git add new_notebook.ipynb`
+    * `git commit -m "some informative commit message"`
+    * `git push origin main`
 
-## Jupyter Notebook contain "Code" and "Text" _Cells_
+
+## Jupyter Notebooks contain "Code" and "Text" _Cells_
 
 1. Text _Cells_ are writen in [Markdown](https://en.wikipedia.org/wiki/Markdown) language.
 2. For a brief reference, see [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet)
