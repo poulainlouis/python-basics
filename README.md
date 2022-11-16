@@ -1,4 +1,6 @@
 # python-basics Jupyter Notebooks on [GitHub](https://github.com/bernardocarvalho/python-basics)
+### https://github.com/bernardocarvalho/python-basics
+
 ## Python files for Python introductory Course
 
 ### Running Notebooks Online:
